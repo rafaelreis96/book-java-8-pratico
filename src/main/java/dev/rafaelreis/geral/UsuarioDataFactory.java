@@ -7,11 +7,9 @@ import com.github.javafaker.Faker;
 
 public class UsuarioDataFactory {
 
-    private static Faker faker;
+    private static Faker faker = Faker.instance();
 
-    private UsuarioDataFactory(){ 
-        faker = Faker.instance();
-    }
+    private UsuarioDataFactory(){ }
 
     public static List<Usuario> listaDeUsuarios(int quantidade) {
         List<Usuario> usuarios = new ArrayList<>();

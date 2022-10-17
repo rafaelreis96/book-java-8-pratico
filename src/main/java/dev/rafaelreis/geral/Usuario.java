@@ -31,4 +31,10 @@ public class Usuario {
         return moderador;
     }
 
+    @Override
+    public String toString() {
+        return String.format(
+            "[Nome: %s, Pontos: %d, Moderador:%s]", nome, pontos, moderador);
+    }
+
 }

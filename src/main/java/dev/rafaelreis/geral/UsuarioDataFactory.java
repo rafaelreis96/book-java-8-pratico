@@ -10,7 +10,7 @@ public class UsuarioDataFactory {
     private static Faker faker;
 
     private UsuarioDataFactory(){ 
-        this.faker = Faker.instance();
+        faker = Faker.instance();
     }
 
     public static List<Usuario> listaDeUsuarios(int quantidade) {

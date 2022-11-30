@@ -5,7 +5,7 @@ Estudo do livro Java 8 prático (Casa do Código)
 - :ballot_box_with_check: 2. Olá, Lambda!
 - :ballot_box_with_check: 3. Interfaces funcionais
 - :ballot_box_with_check: 4. Default Methods
-- :white_large_square: 5. Ordenando no Java 8
+- :ballot_box_with_check: 5. Ordenando no Java 8
 - :ballot_box_with_check: 6. Method References
 - :white_large_square: 7. Streams e Collectors
 - :ballot_box_with_check: 8. Mais operações com Streams

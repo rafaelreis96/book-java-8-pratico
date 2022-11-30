@@ -12,5 +12,5 @@ Estudo do livro Java 8 prático (Casa do Código)
 - :white_large_square: 9. Mapeando, particionando, agrupando e paralelizando
 - :white_large_square: 10. Chega de Calendar! Nova API de datas
 - :white_large_square: 11. Um modelo de pagamentos com Java 8git 
-- :white_large_square: 12. Apêndice: mais Java 8 com reflection, JVM, APIs e limitações
-- :white_large_square: 13. Continuando seus estudos
+- :ballot_box_with_check: 12. Apêndice: mais Java 8 com reflection, JVM, APIs e limitações
+- :ballot_box_with_check: 13. Continuando seus estudos

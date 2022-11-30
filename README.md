@@ -2,7 +2,7 @@
 Estudo do livro Java 8 prático (Casa do Código)
 
 - :ballot_box_with_check: 1. Java 8
-- :white_large_square: 2. Olá, Lambda!
+- :ballot_box_with_check: 2. Olá, Lambda!
 - :white_large_square: 3. Interfaces funcionais
 - :white_large_square: 4. Default Methods
 - :white_large_square: 5. Ordenando no Java 8

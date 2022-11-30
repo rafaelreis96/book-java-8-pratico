@@ -1,3 +1,6 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
 }
